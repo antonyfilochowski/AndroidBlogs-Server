@@ -2,19 +2,19 @@
   {
     "id"  :  1,
     "title"  : "mastering markdown: a beginner's guide to formatting like a pro!",
-    "thumbnail_url"  : "",
+    "thumbnail_url"  : "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/images/androidblogsmarkdown.jpg",
     "content_url"  :  "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/blogs/blog1.md"
   },
     {
     "id"  :  2,
     "title"  : "understanding json: a comprehensive guide",
-    "thumbnail_url"  : "",
+    "thumbnail_url"  : "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/images/androidblogsjson.jpg",
     "content_url"  :  "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/blogs/blog2.md"
   },
     {
     "id"  :  3,
     "title"  : "the complete guide to room db in android for effective data storage",
-    "thumbnail_url"  : "",
+    "thumbnail_url"  : "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/images/androidblogsroomdb.jpg",
     "content_url"  :  "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/blogs/blog3.md"
   }
 ]
