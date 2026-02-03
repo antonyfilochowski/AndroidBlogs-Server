@@ -20,7 +20,7 @@
   {
     "id"  :  4,
     "title"  : "state management in compose",
-    "thumbnail_url"  : "https://github.com/antonyfilochowski/AndroidBlogs-Server/blob/main/images/androidstatemanagement.jpg",
+    "thumbnail_url"  : "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/images/androidstatemanagement.jpg",
     "content_url"  :  "https://raw.githubusercontent.com/antonyfilochowski/AndroidBlogs-Server/refs/heads/main/blogs/blog4.md"
   }
 ]
